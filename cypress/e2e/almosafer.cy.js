@@ -4,7 +4,7 @@ const expectedCurrency = "SAR"
 
 // const expectedAttribute = "lang"
 //const expectedLanguage = "en"
-describe('Aspire test cases', () => {
+describe('test cases', () => {
   it('check the currency is SAR', () => {
     cy.visit('https://www.almosafer.com/en?ncr=1')
     
