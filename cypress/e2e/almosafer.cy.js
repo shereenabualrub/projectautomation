@@ -1,5 +1,5 @@
 /// <reference types= "cypress" />
-//الشرح بفيديو 7
+// 7
 const expectedCurrency = "SAR"
 
 // const expectedAttribute = "lang"
